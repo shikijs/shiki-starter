@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono');
+
+body { margin: 0; }
+pre {
+  margin: 0;
+  padding: 4rem;
+}
+pre code {
+  font-size: 13px;
+  font-family: 'IBM Plex Mono';
+}

@@ -1,0 +1,15 @@
+{
+  "name": "shiki-starter",
+  "description": "A starter template for using Shiki",
+  "scripts": {
+    "build": "node index.js",
+    "start": "serve"
+  },
+  "dependencies": {
+    "shiki": "^0.2.2"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  },
+  "license": "MIT"
+}
